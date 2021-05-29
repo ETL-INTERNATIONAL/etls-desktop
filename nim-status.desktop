@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Status Desktop
+Exec=nim_status_client
+Icon=status
+Comment=Desktop client for the Status Network
+Terminal=true
+Categories=Network;
